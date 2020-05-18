@@ -20,42 +20,42 @@ Phase 1 of our study involved the collection of comments on commercial items fro
 Sentiment values were assigned manually by 500 university students for a range of different textual variants, and the results appear in `SentimentValues.xls`. In this spreadsheet, the columns A to G represent the following items, corresponding to part one in the sample questionnaire, with codes for each column shown in a sub-list: 
 
 * A: English
-  * 1. Yes
-  * 2. No
+  * 1: Yes
+  * 2: No
 * B: Age
-  * 1. 18 and below
-  * 2. 19-35
-  * 3. 36-50
-  * 4. 51 and above
+  * 1: 18 and below
+  * 2: 19-35
+  * 3: 36-50
+  * 4: 51 and above
 * C: Gender
-  * 1. Male
-  * 2. Female
+  * 1: Male
+  * 2: Female
 * D: DoYouComment
-  * 1. Yes
-  * 2. No
+  * 1: Yes
+  * 2: No
 * E: WhichSocialMedia
-  * 1. Facebook.com
-  * 2. Amazon.com
-  * 3. eBay.com
-  * 4. Twitter.com
-  * 5. Other
+  * 1: Facebook.com
+  * 2: Amazon.com
+  * 3: eBay.com
+  * 4: Twitter.com
+  * 5: Other
 * F: WhatIsYourPurpose
-  * 1. Sharing experience
-  * 2. Giving warning to others
-  * 3. Giving suggestion
-  * 4. Expressing yourself
-  * 5. Sharing experience
-  * 6. Other
+  * 1: Sharing experience
+  * 2: Giving warning to others
+  * 3: Giving suggestion
+  * 4: Expressing yourself
+  * 5: Sharing experience
+  * 6: Other
 * G: WhatIsTheCategory
-  * 1. Mobile and Tablets
-  * 2. Fashion
-  * 3. Jewellery and Watch
-  * 4. Camera
-  * 5. Home Appliance
-  * 6. Consumer Electronics
-  * 7. Computer
-  * 8. Beauty and Health
-  * 9. Toys and Kids
+  * 1: Mobile and Tablets
+  * 2: Fashion
+  * 3: Jewellery and Watch
+  * 4: Camera
+  * 5: Home Appliance
+  * 6: Consumer Electronics
+  * 7: Computer
+  * 8: Beauty and Health
+  * 9: Toys and Kids
  
 The coding system indicated by the numbers above is also shown in `AtoGcoding.docx`.
  
