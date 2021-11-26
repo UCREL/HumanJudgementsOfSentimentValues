@@ -4,7 +4,7 @@
 
 This repository contains the collected comments and their manual analyses which are released as part of the following paper.
 
-Irina Pak, Phoey Lee Teh, Paul Rayson, Scott Piao, Jessica Sze Yin Ho, Andrew Moore and Yu-N Cheah (under review) Textual Variations Affect Human Judgements of Sentiment Values. IEEE Transactions on Affective Computing.
+Phoey Lee Teh, Paul Rayson, Irina Pak, Scott Piao, Jessica Sze Yin Ho, Andrew Moore and Yu-N Cheah (under review) Textual Variations Affect Human Judgements of Sentiment Values. Electronic Commerce Research and Applications.
 	
 
 ## Licence
