@@ -4,8 +4,8 @@
 
 This repository contains the collected comments and their manual analyses which are released as part of the following paper.
 
-Phoey Lee Teh, Paul Rayson, Irina Pak, Scott Piao, Jessica Sze Yin Ho, Andrew Moore and Yu-N Cheah (under review) Textual Variations Affect Human Judgements of Sentiment Values. Electronic Commerce Research and Applications.
-	
+Phoey Lee Teh, Paul Rayson, Irina Pak, Scott Piao, Jessica Sze Yin Ho, Andrew Moore and Yu-N Cheah (2022) Textual Variations Affect Human Judgements of Sentiment Values. Electronic Commerce Research and Applications, 53.
+DOI: <a href="https://doi.org/10.1016/j.elerap.2022.101149">10.1016/j.elerap.2022.101149</a>	
 
 ## Licence
 
@@ -91,8 +91,9 @@ This research project has received approval from the Sunway University Research 
 
 ## Updates
 
-A snapshot of this data as released with the paper is available via a Lancaster University DOI.
-This set of data is also available on the UCREL GitHub, where any future updates will be  made:
+A snapshot of this data as released with the paper is available via a Lancaster University DOI
+(<a href="https://doi.org/10.17635/lancaster/researchdata/368">10.17635/lancaster/researchdata/368</a>).
+This set of data is also available on the UCREL GitHub, where any future updates will be made:
 
 https://github.com/UCREL/HumanJudgementsOfSentimentValues
 
